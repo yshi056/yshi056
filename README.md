@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently a student at Columbia SIPA
-- 🌱 I’m currently learning python, JAVA and.. surfing loll
-- 📫 How to reach me: ys3375@columbia.edu
+- 🔭 I’m currently a student at Northeastern University
+- 🌱 I’m currently learning python, JAVA and.. surfing
+- 📫 How to reach me: shi.yang2@northeastern.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I can speak more than 3 languages. My dream is to travel the world.
 
